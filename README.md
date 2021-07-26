@@ -26,7 +26,7 @@
 `$ python3 smsbot.py members.csv`
 * add members togroup
 
-`$ python3 add2group.py members.csv
+`$ python3 add2group.py members.csv`
 
 * Update Tool
 
