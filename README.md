@@ -24,7 +24,8 @@
 * Send Bulk sms To Collected Data 
 
 `$ python3 smsbot.py members.csv`
-* add members togroup
+
+* add members to group
 
 `$ python3 add2group.py members.csv`
 
