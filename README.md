@@ -6,7 +6,7 @@
 
 `$ git clone https://github.com/NoOneSystemIsSafe/RoughGRIP`
 
-`$ cd TeleGram-Scraper`
+`$ cd RoughGRIP`
 
 * Install requierments
 
